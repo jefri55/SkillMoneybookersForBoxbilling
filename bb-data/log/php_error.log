@@ -1,0 +1,25 @@
+[30-Oct-2015 08:30:00 Asia/Jakarta] License is not valid 0
+[30-Oct-2015 08:30:27 Asia/Jakarta] License is not valid 0
+[30-Oct-2015 08:30:35 Asia/Jakarta] License is not valid 0
+[30-Oct-2015 08:30:43 Asia/Jakarta] License is not valid 0
+[30-Oct-2015 08:30:58 Asia/Jakarta] License is not valid 0
+[30-Oct-2015 08:31:07 Asia/Jakarta] License is not valid 0
+[30-Oct-2015 08:32:39 Asia/Jakarta] License is not valid 0
+[30-Oct-2015 08:33:07 Asia/Jakarta] License is not valid 0
+[30-Oct-2015 08:33:11 Asia/Jakarta] License is not valid 0
+[30-Oct-2015 08:33:49 Asia/Jakarta] License is not valid 0
+[30-Oct-2015 08:34:02 Asia/Jakarta] License is not valid 0
+[30-Oct-2015 08:34:03 Asia/Jakarta] License is not valid 0
+[30-Oct-2015 08:36:28 Asia/Jakarta] License is not valid 0
+[30-Oct-2015 08:39:12 Asia/Jakarta] Please check your login details 403
+[30-Oct-2015 08:39:21 Asia/Jakarta] Please check your login details 403
+[30-Oct-2015 08:39:35 Asia/Jakarta] Please check your login details 403
+[30-Oct-2015 08:46:21 Asia/Jakarta] Can not checkout empty cart. 0
+[30-Oct-2015 08:46:27 Asia/Jakarta] Can not checkout empty cart. 0
+[30-Oct-2015 09:08:18 Asia/Jakarta] 2 mkdir(): File exists C:\xampp\htdocs\box\bb-vendor\twig\twig\lib\Twig\Environment.php 1235
+[30-Oct-2015 09:40:22 Asia/Jakarta] 8 Undefined variable: config C:\xampp\htdocs\box\bb-library\Payment\Adapter\PayPalEmail.php 62
+[30-Oct-2015 09:40:22 Asia/Jakarta] PHP Notice:  Undefined variable: config in C:\xampp\htdocs\box\bb-library\Payment\Adapter\PayPalEmail.php on line 62
+[30-Oct-2015 10:47:25 Asia/Jakarta] Page /bb-themes/huraga/assets/img/gateway_logos/skrill-payby-btn-purple_245x75.jpeg not found
+[30-Oct-2015 10:47:33 Asia/Jakarta] Page /bb-themes/huraga/assets/img/gateway_logos/skrill-payby-btn-purple_245x75.jpeg not found
+[30-Oct-2015 10:48:16 Asia/Jakarta] 8 Undefined index: status_url C:\xampp\htdocs\box\bb-library\Payment\Adapter\SkrillMoneybookers.php 70
+[30-Oct-2015 10:48:16 Asia/Jakarta] PHP Notice:  Undefined index: status_url in C:\xampp\htdocs\box\bb-library\Payment\Adapter\SkrillMoneybookers.php on line 70

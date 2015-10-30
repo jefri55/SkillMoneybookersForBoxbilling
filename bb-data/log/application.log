@@ -1,0 +1,233 @@
+2015-10-30 01:26:05 INFO (6): Added new  email template #1
+2015-10-30 01:26:05 INFO (6): Added new  email template #2
+2015-10-30 01:26:05 INFO (6): Added new  email template #3
+2015-10-30 01:26:05 INFO (6): Added new  email template #4
+2015-10-30 01:26:05 INFO (6): Added new  email template #5
+2015-10-30 01:26:05 INFO (6): Added new  email template #6
+2015-10-30 01:26:05 INFO (6): Added new  email template #7
+2015-10-30 01:26:05 INFO (6): Added new  email template #8
+2015-10-30 01:26:05 INFO (6): Added new  email template #9
+2015-10-30 01:26:05 INFO (6): Added new  email template #10
+2015-10-30 01:26:05 INFO (6): Added new  email template #11
+2015-10-30 01:26:05 INFO (6): Added new  email template #12
+2015-10-30 01:26:05 INFO (6): Added new  email template #13
+2015-10-30 01:26:05 INFO (6): Added new  email template #14
+2015-10-30 01:26:05 INFO (6): Added new  email template #15
+2015-10-30 01:26:05 INFO (6): Added new  email template #16
+2015-10-30 01:26:05 INFO (6): Added new  email template #17
+2015-10-30 01:26:05 INFO (6): Added new  email template #18
+2015-10-30 01:26:05 INFO (6): Added new  email template #19
+2015-10-30 01:26:05 INFO (6): Added new  email template #20
+2015-10-30 01:26:05 INFO (6): Added new  email template #21
+2015-10-30 01:26:05 INFO (6): Added new  email template #22
+2015-10-30 01:26:05 INFO (6): Added new  email template #23
+2015-10-30 01:26:05 INFO (6): Added new  email template #24
+2015-10-30 01:26:05 INFO (6): Added new  email template #25
+2015-10-30 01:26:05 INFO (6): Added new  email template #26
+2015-10-30 01:26:05 INFO (6): Added new  email template #27
+2015-10-30 01:26:05 INFO (6): Added new  email template #28
+2015-10-30 01:26:05 INFO (6): Added new  email template #29
+2015-10-30 01:26:05 INFO (6): Added new  email template #30
+2015-10-30 01:26:05 INFO (6): Added new  email template #31
+2015-10-30 01:26:05 INFO (6): Added new  email template #32
+2015-10-30 01:26:05 INFO (6): Added new  email template #33
+2015-10-30 01:26:05 INFO (6): Added new  email template #34
+2015-10-30 01:26:05 INFO (6): Added new  email template #35
+2015-10-30 01:26:05 INFO (6): Added new  email template #36
+2015-10-30 01:26:05 INFO (6): Added new  email template #37
+2015-10-30 01:26:05 INFO (6): Added new  email template #38
+2015-10-30 01:26:05 INFO (6): Added new  email template #39
+2015-10-30 01:26:05 INFO (6): Added new  email template #40
+2015-10-30 01:26:05 INFO (6): Added new  email template #41
+2015-10-30 01:26:05 INFO (6): Added new  email template #42
+2015-10-30 01:26:05 INFO (6): Added new  email template #43
+2015-10-30 01:26:05 INFO (6): Added new  email template #44
+2015-10-30 01:26:05 INFO (6): Added new  email template #45
+2015-10-30 01:26:05 INFO (6): Added new  email template #46
+2015-10-30 01:26:05 INFO (6): Added new  email template #47
+2015-10-30 01:26:05 INFO (6): Generated email templates for installed extensions
+2015-10-30 08:38:58 DEBUG (7): onBeforeClientSignUp: array (
+  'email' => 'jefriskrill@gmail.com',
+  'first_name' => 'jefri',
+  'password' => 'jefri12345',
+  'password_confirm' => 'jefri12345',
+  'auto_login' => '1',
+  'ip' => '::1',
+)
+2015-10-30 08:38:58 DEBUG (7): onAfterClientSignUp: array (
+  'id' => '1',
+  'password' => 'jefri12345',
+)
+2015-10-30 08:38:58 INFO (6): Client #1 signed up
+2015-10-30 08:38:58 DEBUG (7): onBeforeClientLogin: array (
+  'email' => 'jefriskrill@gmail.com',
+  'password' => 'jefri12345',
+  'ip' => '::1',
+)
+2015-10-30 08:38:59 DEBUG (7): onAfterClientLogin: array (
+  'id' => '1',
+  'ip' => '::1',
+)
+2015-10-30 08:38:59 INFO (6): Client #1 logged in
+2015-10-30 08:39:12 DEBUG (7): onBeforeClientLogin: array (
+  'email' => 'jefrisugiarto@gmail.com',
+  'password' => 'jefri123',
+  'ip' => '::1',
+)
+2015-10-30 08:39:12 DEBUG (7): onEventClientLoginFailed: array (
+  'email' => 'jefrisugiarto@gmail.com',
+  'password' => 'jefri123',
+  'ip' => '::1',
+)
+2015-10-30 08:39:21 DEBUG (7): onBeforeClientLogin: array (
+  'email' => 'jefrisugiarto@gmail.com',
+  'password' => 'jefri12345',
+  'ip' => '::1',
+)
+2015-10-30 08:39:21 DEBUG (7): onEventClientLoginFailed: array (
+  'email' => 'jefrisugiarto@gmail.com',
+  'password' => 'jefri12345',
+  'ip' => '::1',
+)
+2015-10-30 08:39:35 DEBUG (7): onBeforeClientLogin: array (
+  'email' => 'jefrisugiarto@gmail.com',
+  'password' => 'Eikontech55',
+  'ip' => '::1',
+)
+2015-10-30 08:39:35 DEBUG (7): onEventClientLoginFailed: array (
+  'email' => 'jefrisugiarto@gmail.com',
+  'password' => 'Eikontech55',
+  'ip' => '::1',
+)
+2015-10-30 08:39:59 DEBUG (7): onBeforeAdminLogin: array (
+  'email' => 'jefrisugiarto@gmail.com',
+  'password' => 'jefri123',
+  'ip' => '::1',
+)
+2015-10-30 08:40:00 DEBUG (7): onAfterAdminLogin: array (
+  'id' => '1',
+  'ip' => '::1',
+)
+2015-10-30 08:40:00 INFO (6): Staff member 1 logged in
+2015-10-30 08:40:27 INFO (6): Updated payment gateway Custom
+2015-10-30 08:41:02 INFO (6): Updated payment gateway PayPalEmail
+2015-10-30 08:45:51 DEBUG (7): onBeforeProductAddedToCart: array (
+  'register_sld' => 'yespleasetes',
+  'register_tld' => '.com',
+  'register_years' => '1',
+  'ns1' => '',
+  'ns2' => '',
+  'ns3' => '',
+  'ns4' => '',
+  'transfer_sld' => '',
+  'transfer_tld' => '.com',
+  'transfer_code' => '',
+  'id' => '1',
+  'action' => 'register',
+  'multiple' => '1',
+  'cart_id' => '1',
+  'product_id' => '1',
+)
+2015-10-30 08:45:51 INFO (6): Added "Domains registration and transfer" to shopping cart
+2015-10-30 08:45:51 DEBUG (7): onAfterProductAddedToCart: array (
+  'register_sld' => 'yespleasetes',
+  'register_tld' => '.com',
+  'register_years' => '1',
+  'ns1' => '',
+  'ns2' => '',
+  'ns3' => '',
+  'ns4' => '',
+  'transfer_sld' => '',
+  'transfer_tld' => '.com',
+  'transfer_code' => '',
+  'id' => '1',
+  'action' => 'register',
+  'multiple' => '1',
+  'cart_id' => '1',
+  'product_id' => '1',
+)
+2015-10-30 08:46:09 DEBUG (7): onBeforeClientCheckout: array (
+  'ip' => '::1',
+  'client_id' => '1',
+  'cart_id' => '1',
+)
+2015-10-30 08:46:09 INFO (6): Prepared new invoice "1"
+2015-10-30 08:46:09 DEBUG (7): onBeforeAdminInvoiceApprove: array (
+  'id' => '1',
+)
+2015-10-30 08:46:09 DEBUG (7): onAfterAdminInvoiceApprove: array (
+  'id' => '1',
+)
+2015-10-30 08:46:09 INFO (6): Approved invoice "1"
+2015-10-30 08:46:09 INFO (6): Checked out shopping cart
+2015-10-30 08:46:09 DEBUG (7): onAfterClientOrderCreate: array (
+  'ip' => '::1',
+  'client_id' => '1',
+  'id' => '1',
+)
+2015-10-30 08:46:21 DEBUG (7): onBeforeClientCheckout: array (
+  'ip' => '::1',
+  'client_id' => '1',
+  'cart_id' => '2',
+)
+2015-10-30 08:46:27 DEBUG (7): onBeforeClientCheckout: array (
+  'ip' => '::1',
+  'client_id' => '1',
+  'cart_id' => '2',
+)
+2015-10-30 09:05:57 DEBUG (7): onBeforeProductAddedToCart: array (
+  'register_sld' => 'tesdfsdf',
+  'register_tld' => '.com',
+  'register_years' => '1',
+  'ns1' => '',
+  'ns2' => '',
+  'ns3' => '',
+  'ns4' => '',
+  'transfer_sld' => '',
+  'transfer_tld' => '.com',
+  'transfer_code' => '',
+  'id' => '1',
+  'action' => 'register',
+  'multiple' => '1',
+  'cart_id' => '2',
+  'product_id' => '1',
+)
+2015-10-30 09:05:57 INFO (6): Added "Domains registration and transfer" to shopping cart
+2015-10-30 09:05:57 DEBUG (7): onAfterProductAddedToCart: array (
+  'register_sld' => 'tesdfsdf',
+  'register_tld' => '.com',
+  'register_years' => '1',
+  'ns1' => '',
+  'ns2' => '',
+  'ns3' => '',
+  'ns4' => '',
+  'transfer_sld' => '',
+  'transfer_tld' => '.com',
+  'transfer_code' => '',
+  'id' => '1',
+  'action' => 'register',
+  'multiple' => '1',
+  'cart_id' => '2',
+  'product_id' => '1',
+)
+2015-10-30 09:06:00 DEBUG (7): onBeforeClientCheckout: array (
+  'ip' => '::1',
+  'client_id' => '1',
+  'cart_id' => '2',
+)
+2015-10-30 09:06:01 INFO (6): Prepared new invoice "2"
+2015-10-30 09:06:01 DEBUG (7): onBeforeAdminInvoiceApprove: array (
+  'id' => '2',
+)
+2015-10-30 09:06:01 DEBUG (7): onAfterAdminInvoiceApprove: array (
+  'id' => '2',
+)
+2015-10-30 09:06:01 INFO (6): Approved invoice "2"
+2015-10-30 09:06:01 INFO (6): Checked out shopping cart
+2015-10-30 09:06:01 DEBUG (7): onAfterClientOrderCreate: array (
+  'ip' => '::1',
+  'client_id' => '1',
+  'id' => '2',
+)
+2015-10-30 10:24:24 INFO (6): Installed new payment gateway SkrillMoneybookers
+2015-10-30 10:38:54 INFO (6): Updated payment gateway SkrillMoneybookers
